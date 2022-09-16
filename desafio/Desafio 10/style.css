@@ -1,0 +1,129 @@
+@charset "UTF-8";
+@font-face {
+    font-family: android;
+    src: url(fontes/Android.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body { background-color: #6FE156;
+
+}
+main {background-color:white;
+      box-shadow: 10px 10px 10px 0px black;
+      min-width: 320px;
+      max-width: 800px;
+      margin:auto;
+      margin-bottom: 30px;
+      padding: 20px;
+      border-bottom-left-radius: 10px;
+      border-bottom-right-radius: 10px;
+      
+
+
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header { text-align: center;
+        text-shadow: 0 0 5px black;
+         font-size: 3em;
+         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+         background-image: linear-gradient(to bottom, #B4EAA6, #36662A) ;
+         color: white;
+         margin: auto;
+         min-height: 150px;
+         padding-top: 40px;
+       
+        
+}
+header > p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+nav {
+    font-size: 20px;
+    text-align: left;
+    background-color: #36662A;
+    padding: 10px;
+    
+}
+
+h1{
+    font-family: android;
+    color: #2D5C23;
+}
+
+h2 {
+    font-family: android;
+    background: #A3DB96;
+    color: #2D5C23;
+}
+
+p{
+    font-family: cursive;
+    margin: 15px 0px;
+}
+
+a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav > a {
+    color: #B4EAA6;
+
+}
+
+nav > a:hover {
+    text-decoration: underline;
+    transition-duration: .5s;
+    background-color: rgb(255, 40, 2);
+    
+
+}
+img { width: 100%;
+
+}
+iframe {
+    width: 100%;
+    
+}
+
+div.video {
+    background-color: #3e862d;
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 59%;
+    position: relative;
+}
+
+div.video > iframe {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
+footer {
+    font-family: monospace;
+    text-align: right;
+}
+
+/* 
+:root{
+    --cor01: codigo da cor;
+
+Serve para fontes tbm
+
+--nomedafonte: Fontes que ira usar
+Ex:
+
+--fonte-padrao: Arial, Courier new, Sans-serif */

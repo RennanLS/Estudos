@@ -1,0 +1,44 @@
+@charset "UTF-8";
+style=  | Para definir o estilo de algo
+font-family:| Definir a fonte das letras
+text-aliang justify | para arrumar o texto
+text-aliang center | para centralizar o texto
+font-size (quantidade de pixels)px
+background-color
+background-image: linear-gradiente(to right, color, color);
+*{} | para configurações globais do CSS
+background-attachement: fixed; | Fixar o fundo da página
+radial-gradient
+margin: auto; | Para centralizar a box, server também para imagens
+padding:10px | Aumentar o fundo do texto
+border: 0px solid color;
+border-radius:10px; | Arredondar a borda do texto
+box-shadow: px px px color
+font-weight: |para negrito
+font-style: | para italic por exemplo
+text-decoration: underline; | para sumblinhado
+font-face | para adicionar fontes baixadas
+Tipos de format ()
+-opentype (otf)
+- truetype (ttf)
+-embedded-opentype
+-truetype-aat (Apple Advanced Typography)
+-svg|
+
+-text-indent: 0px | para aumentar o Parágrafo
+#(o id colocado)
+class=(nome da classe)
+Em HTML é id= e em CSS é # ( id só pode um elemento)
+em HTML é class= em CSS é . ( class pode ter vários elementos)
+display: inline-block;
+hover | para algo acontecer quando passar o mouse
+
+">" funciona como filho da div exemplo div > p { display:none } e ira esconder os <p> da div
+
+a:visited | link visitado 
+a:hover | efeitos nos links
+a:active | quando clicar no link
+
+
+ 
+

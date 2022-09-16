@@ -1,0 +1,34 @@
+<H1>A </H6> Tag de hierarquia de títulos
+<HR>             Tag de linha
+<P> </P>      Tag de paragrafo 
+<br>              Tag de quebra de linha
+<!-->              Tag para adicionar comentário 
+&lt; &gt;       Tag para menor < >
+&#x(código do emoji); | tag para emojis
+Img                Tag para imagens
+Linkfavicon   Para adicionar o ícone 
+<address> tag para colocar endereço 
+<a> | Para colocar links
+target="_self" para abrir na propia aba
+target="_blank" rel="external" | para o link abrir em outra guia
+rel="next" Para dizer ao google proxima página
+rel="prev" Para dizer ao google página anterior
+rel+"nofollow"
+../ para voltar 1 pasta
+<strong> para negrito
+<abbr> pra passar o mouse e explicar
+
+<picture> adaptação de imagens 
+<source media type (max-width:> adpatação das imagens para telas menores
+OBS sempre do menor para o maior( baixo em cima e maior em baixo)
+
+<audio src="." controls autoplay></audio> para adicionar algum áudio no site
+preload=
+
+width- para ajustar o tamanho de midias
+loop - para repetir o conteudo da midia
+controls - para aparacer os controles de mídia
+poster= para por uma tumb na mídia
+
+pegar vídeos no youtube consome menos banda do seu servidor use o compartilha do youtube para por vídeos de lá no seu site
+ou use a tag <iframe>
