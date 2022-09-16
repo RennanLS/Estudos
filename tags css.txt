@@ -39,6 +39,10 @@ a:visited | link visitado
 a:hover | efeitos nos links
 a:active | quando clicar no link
 
+background-repeat: no-repeat | para não repitir a imagem de fundo
+background-size: cover | para ajustar o tamanho da imagem de fundo
+background-attachment: fixed |
+
 
  
 
