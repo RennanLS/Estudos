@@ -42,6 +42,8 @@ a:active | quando clicar no link
 background-repeat: no-repeat | para não repitir a imagem de fundo
 background-size: cover | para ajustar o tamanho da imagem de fundo
 background-attachment: fixed |
+position: relative/absolute | 
+transform: translate | para ajustar a imagem 
 
 
  
