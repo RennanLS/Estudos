@@ -32,3 +32,12 @@ poster= para por uma tumb na mídia
 
 pegar vídeos no youtube consome menos banda do seu servidor use o compartilha do youtube para por vídeos de lá no seu site
 ou use a tag <iframe>
+
+input| para iniciar formularios entre outros
+type="" | para dizer o tipo do input
+name"" | nome do input
+placeholder="" | para dizer oque é pra ser escrito no input
+required| para não enviearem os dados do input sem nada
+button| para criar um botão clicavel
+fieldset
+label

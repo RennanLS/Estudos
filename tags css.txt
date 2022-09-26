@@ -45,6 +45,10 @@ background-attachment: fixed |
 position: relative/absolute | 
 transform: translate | para ajustar a imagem 
 
+<section> | criar sessões
+<article> | criar artigos
+
+<hr> | Para separar conteudos
 
  
 
